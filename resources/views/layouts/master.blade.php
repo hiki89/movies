@@ -10,5 +10,6 @@
 <body>
     @include('partials.header')
     @yield('navbar')
+    @include('layouts.sidebar')
 </body>
 </html>
